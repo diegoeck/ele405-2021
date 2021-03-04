@@ -1,0 +1,4 @@
+arq1.txt
+arq2.txt
+arq3.txt
+arq4.txt
